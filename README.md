@@ -3,7 +3,7 @@
 It is a python script that sends the Telegram messages automatically from Telegram desktop application. It can be configured to send advertising messages. It read data from an excel sheet and send a configured message to people.
 
 ## Demo
-* Video clip on youtube of the script execution.
+* Video clip on youtube of the script execution. https://youtu.be/EHWqx8r0f2M
 
 ## Prerequisites
 
@@ -58,4 +58,4 @@ print('The script executed successfully.')
 ```
 Note: The script may not work in case if the accessibility of Telegram changed.
 
-Find it on youtube. 
+Find it on youtube. https://youtu.be/EHWqx8r0f2M
