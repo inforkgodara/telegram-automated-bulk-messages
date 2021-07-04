@@ -5,6 +5,9 @@ It is a python script that sends the Telegram messages automatically from Telegr
 ## Demo
 * Video clip on youtube of the script execution. https://youtu.be/EHWqx8r0f2M
 
+## Important Note
+* If this repository helped you to understand at least something new please give star this repository which motivates me to work further for the similar kinds for projects.
+
 ## Prerequisites
 
 In order to run the python script, your system must have the following programs/packages installed and the contact number should be saved in your phone (You can use bulk contact number saving procedure of email). There is a way without saving the contact number but has the limitation to send the attachment.
