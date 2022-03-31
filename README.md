@@ -28,7 +28,7 @@ In order to run the python script, your system must have the following programs/
 Note: If you wish to send an image or documents instead of text you can write code to add attachment send functionality.
 
 ## Legal
-* This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by WhatsApp or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk. Commercial use of this code/repo is strictly prohibited.
+* This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Telegram or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk. Commercial use of this code/repo is strictly prohibited.
 
 ## Code
 ```
